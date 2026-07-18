@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS products (
+    ProductID INT PRIMARY KEY,
+    ProductName VARCHAR(255),
+    ProductBrand VARCHAR(255),
+    Gender VARCHAR(50),
+    Price VARCHAR(50),
+    Description TEXT,
+    PrimaryColor VARCHAR(50)
+)

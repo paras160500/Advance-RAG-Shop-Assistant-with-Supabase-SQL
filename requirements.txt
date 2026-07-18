@@ -1,0 +1,9 @@
+python-dotenv
+psycopg2
+pandas 
+pinecone 
+langchain-openai
+langchain-groq
+langchain-pinecone
+streamlit
+ipywidgets
